@@ -1,0 +1,14 @@
+database
+webversatility_cms_db
+username
+webversatility_ronboggs2025
+password
+d?h6j;HW}j^3
+
+
+
+mysql database 
+
+User: webversatility_ronboggs2025
+Database: webversatility_cms_db
+
